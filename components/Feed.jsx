@@ -2,7 +2,7 @@ import React from 'react'
 
 const Feed = () => {
   return (
-    <div>Feed test</div>
+    <div>Feed</div>
   )
 }
 
